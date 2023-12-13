@@ -2,7 +2,7 @@
 
 ## Overview
 
-This a basic implementation of an ERC-20 token with minting, transfer, and burn functionalities
+This a basic implementation of an ERC-20 token with minting, transfer, and burn functionalities. This contract was deployed using the Remix IDE.
 
 ### OpenZeppelin Libraries
 
